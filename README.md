@@ -1,12 +1,12 @@
-## eu 
+## eu alessandra
 
 
 
-- -estou estudando
--  meu nome é alessandra.untaler@escola.pr.gov
+- estou aqui para aprender um pouco ...
+- meu inst @alessandra_umtaler
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 estudar
+- 💞️ I’m looking to collaborate com tudo um pouco
+- 📫 estudar espanhol
 
 <!---
 aless15/aless15 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
