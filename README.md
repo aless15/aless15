@@ -1,12 +1,13 @@
-## eu alessandra
+## eu alessandra e jane
 
 
 
-- estou aqui para aprender um pouco ...
-- meu inst @alessandra_umtaler
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate com tudo um pouco
-- 📫 estudar espanhol
+- estamos aqui para aprender um pouco ...
+- nosso inst @alessandra_untaler e @janekelersilva
+- 🌱 jogadoras de voleibol 
+- 💞️ solteiras
+- 📫 Eu por ti,tu por mim,Deus por nós ... 
+- signos" Jane_Ariés e Alessandra_Leão
 
 <!---
 aless15/aless15 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
